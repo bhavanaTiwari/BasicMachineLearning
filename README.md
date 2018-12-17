@@ -1,6 +1,7 @@
 # BasicMachineLearning
 Simple ML project using random forest , KNN and logistic regression algorithim
 
+IDE used : PyCharm 
 
 Dataset used: Black friday data set from Kaggle, number of records {rows : 537574 , columns: 7} 
 
